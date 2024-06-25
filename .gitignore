@@ -1,0 +1,5 @@
+# Bỏ qua thư mục university-static
+university-static/
+
+# Bỏ qua file package.json
+package.json
