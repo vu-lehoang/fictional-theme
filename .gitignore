@@ -3,3 +3,6 @@ university-static/
 
 # Bỏ qua file package.json
 package.json
+
+# Bỏ qua file .gitignore
+.gitignore
